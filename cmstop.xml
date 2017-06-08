@@ -1,0 +1,29 @@
+<code_scheme name="cmstop">
+  <option name="LINE_SEPARATOR" value="&#xA;" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <PHPCodeStyleSettings>
+    <option name="CONCAT_SPACES" value="false" />
+  </PHPCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="PHP">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
+    <option name="CLASS_BRACE_STYLE" value="1" />
+    <option name="METHOD_BRACE_STYLE" value="1" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="2" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="1" />
+    <option name="WRAP_ON_TYPING" value="1" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
